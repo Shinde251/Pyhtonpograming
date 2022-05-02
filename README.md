@@ -1,2 +1,0 @@
-# Pyhtonpograming
-python
